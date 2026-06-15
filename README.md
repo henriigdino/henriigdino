@@ -45,7 +45,7 @@ Projetos de interfaces e prototação criados no Figma com foco em usabilidade e
 ## 📫 Contato
 
 **LinkedIn**
-https://www.linkedin.com/in/henrique-rodrigues-galdino-4170
+in/henrique-rodrigues-galdino-4170a3350
 
 **E-mail**
 [henriquergdino@gmail.com](mailto:henriquergdino@gmail.com)
