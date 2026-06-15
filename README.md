@@ -1,16 +1,107 @@
-## Hi there 👋
+# 👋 Olá, me chamo Henrique Rodrigues Galdino!
 
-<!--
-**henriigdino/henriigdino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação com foco em Front-End e UX/UI, utilizando Angular, TypeScript e Figma para criar interfaces modernas, funcionais e centradas no usuário.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac Santo Amaro.
+* 💻 Desenvolvendo aplicações web com HTML, CSS, JavaScript, TypeScript e Angular.
+* 🎨 Interessado em UX/UI Design, prototipação e experiência do usuário utilizando Figma.
+* 📚 Em constante aprendizado de boas práticas de desenvolvimento, design de interfaces e versionamento de código.
+* 🚀 Em busca da primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento web.
+
+## 💻 Stack
+
+### Front-End
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Angular
+
+### Back-End
+
+* Java
+* SQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Figma
+
+## 📂 Projetos em Destaque
+
+### Sistema de Gestão Financeira
+
+Aplicação desenvolvida para auxiliar no controle financeiro pessoal utilizando Angular.
+
+### Projeto Integrador SENAC
+
+Sistema web desenvolvido como atividade acadêmica utilizando Angular, TypeScript e JSON Server.
+
+### Protótipos UX/UI
+
+Projetos de interfaces e prototação criados no Figma com foco em usabilidade e experiência do usuário.
+
+## 📫 Contato
+
+**LinkedIn**
+# 👋 Olá, eu sou Henrique Rodrigues
+
+Desenvolvedor em formação com foco em Front-End e UX/UI, utilizando Angular, TypeScript e Figma para criar interfaces modernas, funcionais e centradas no usuário.
+
+## 🚀 Sobre mim
+
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac Santo Amaro.
+* 💻 Desenvolvendo aplicações web com HTML, CSS, JavaScript, TypeScript e Angular.
+* 🎨 Interessado em UX/UI Design, prototipação e experiência do usuário utilizando Figma.
+* 📚 Em constante aprendizado de boas práticas de desenvolvimento, design de interfaces e versionamento de código.
+* 🚀 Em busca da primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento web.
+
+## 💻 Stack
+
+### Front-End
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Angular
+
+### Back-End
+
+* Java
+* SQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Figma
+
+## 📂 Projetos em Destaque
+
+### Sistema de Gestão Financeira
+
+Aplicação desenvolvida para auxiliar no controle financeiro pessoal utilizando Angular.
+
+### Projeto Integrador SENAC
+
+Sistema web desenvolvido como atividade acadêmica utilizando Angular, TypeScript e JSON Server.
+
+### Protótipos UX/UI
+
+Projetos de interfaces e prototação criados no Figma com foco em usabilidade e experiência do usuário.
+
+## 📫 Contato
+
+**LinkedIn**
+https://www.linkedin.com/in/henrique-rodrigues-galdino-4170
+
+**E-mail**
+[henriquergdino@gmail.com](mailto:henriquergdino@gmail.com)
+
