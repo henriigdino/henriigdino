@@ -38,7 +38,7 @@ Desenvolvedor em formação com foco em Front-End e UX/UI, utilizando Angular, T
 
 Sistema web desenvolvido como atividade acadêmica utilizando Angular, TypeScript e JSON Server.
 
-Disponível em: https://github.com/henriigdino/nome-do-repositorio
+Disponível em: https://github.com/henriigdino/Projeto-PI---Atualizado
 
 ## 📫 Contato
 
