@@ -41,7 +41,6 @@ Sistema web desenvolvido como atividade acadêmica utilizando Angular, TypeScrip
 ## 📫 Contato
 
 - 💼 LinkedIn: www.linkedin.com/in/henrique-rodrigues-galdino-4170a3350
-- 💻 GitHub: github.com/henriigdino
 - 📧 E-mail: [henriquergdino@gmail.com](mailto:henriquergdino@gmail.com)
 
 
