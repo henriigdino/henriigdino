@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Henrique Rodrigues Galdino!
+# 👋 Olá, sou Henrique Rodrigues Galdino!
 
 Desenvolvedor em formação com foco em Front-End e UX/UI, utilizando Angular, TypeScript e Figma para criar interfaces modernas, funcionais e centradas no usuário.
 
