@@ -38,13 +38,13 @@ Desenvolvedor em formação com foco em Front-End e UX/UI, utilizando Angular, T
 
 Sistema web desenvolvido como atividade acadêmica utilizando Angular, TypeScript e JSON Server.
 
-Disponível em: https://github.com/henriigdino/Projeto-PI---Atualizado
+- Disponível em: https://github.com/henriigdino/Projeto-PI---Atualizado
 
 ### Mockup de APP de Planejamento de Viagens - SENAC
 
 Mockup desenvolvido no Figma de uma interface não-interativa de um aplicativo de Planejamento de Viagens
 
-Disponível em: https://github.com/henriigdino/Mockup-de-Interface-de-APP-de-Planejamento-de-Viagens---TIC-em-Trilhas-Fundamentos-de-UX---Senac.git
+- Disponível em: https://github.com/henriigdino/Mockup-de-Interface-de-APP-de-Planejamento-de-Viagens---TIC-em-Trilhas-Fundamentos-de-UX---Senac.git
 
 ## 📫 Contato
 
